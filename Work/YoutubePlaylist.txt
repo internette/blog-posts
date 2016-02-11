@@ -1,0 +1,11 @@
+<h2>The Problem</h2>
+<p>You can usually find me with my headphones on, listening to something like French rap, Japanese pop, or comedic vlogs. Sadly, not everything is available on streaming medias, such as Spotify or SoundCloud. To remedy this problem, I've built a Chrome extension that enables users to play YouTube Playlists without opening a YouTube tab.</p>
+<h2>The Goals</h2>
+The user would install the Chrome extension. Clicking the extension icon in the toolbar would bring up a modal that gave the user two options: search for a playlist or go to a playlist if they, the user, knew the playlist id. Another goal was that they could listen to the playlist whether the extension modal was opened or not. The final goal was that the user could control the extension with their keyboard, preferably media keys.
+<h2>The Process</h2>
+<p class="subtitle"><b>Design</b></p>
+<p>I approached the design phase as a YouTube user. After thoroughly exploring YouTube, I prioritized three parts in the design: lists, progress bars, and buttons. Lists structured most of the content, including search results and the current playlist. I had to style the lists in a way that didn't sacrifice legibility. The progress bar showed the current song's elapsed time. The buttons aided in usability of the extension.</p>
+<p>I chose colors that resonated with the platform. By using similar colors, the user could expect an experience resembling YouTube. I used animations to emphasize the visual experience, including the progress bar and page transitions.</p>
+<p class="subtitle"><b>Development</b></p>
+<p></p>
+<h2>The Hurdles</h2>
