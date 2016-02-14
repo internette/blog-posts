@@ -1,0 +1,20 @@
+<p>I started working on CEB's public-facing site's CMS migration in October 2015. This was my first migration, so I had no idea what I was in for. Between the longer hours than I was used to, the collaboration between two teams, and the constant changes, I learned a lot. This post explains the tips that I've picked up throughout the process.</p>
+<p class="subtitle"><b>My role:</b> Front-End Developer</p>
+-Know how the CMS works ahead of time
+-Gather your resources
+	-template
+	-folder system
+	-assets
+-Communication is key
+	-clear expectations ahead of time
+	-Ensure understanding between people and teams
+	-Editable way that team knows what’s going out
+		-Google Docs/Asana/Trello
+-#Priorities
+	-Prioritize everything:
+		-mobile
+		-Edits
+		-pages
+-Be flexible
+	-Things change. Accept it.
+        -Be willing to pick up the slack
