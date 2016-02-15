@@ -1,10 +1,17 @@
-<p>I started working on CEB's public-facing site's CMS migration in October 2015. This was my first migration, so I had no idea what I was in for. Between the longer hours than I was used to, the collaboration between two teams, and the constant changes, I learned a lot. This post explains the tips that I've picked up throughout the process.</p>
-<p class="subtitle"><b>My role:</b> Front-End Developer</p>
--Know how the CMS works ahead of time
+<p>Like a zombie apocalypse, a CMS migration tests one's adaptability under severe stress. Between the long hours, the multi-team collaboration, and the constant changes, I felt less than alive.  There are easily ways to avoid this level of stress.</p>
+
+<h2>Know the CMS Ins-and-Outs</h2>
+<p>Before anything, get acquainted with the CMS. Know what every button and component does. Understand the interface. 
+  -get acquainted with the CMS 
+  -Saves time and effort
+  -Document through process
 -Gather your resources
-	-template
-	-folder system
-	-assets
+  -template
+  -folder system
+  -assets
+  -Update Documentation during this
+  -Note naming conventions in this process: file names, reference to component names, etc.
+  -Note Key build methods
 -Communication is key
 	-clear expectations ahead of time
 	-Ensure understanding between people and teams
