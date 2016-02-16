@@ -5,6 +5,12 @@
   -get acquainted with the CMS 
   -Saves time and effort
   -Document through process
+  -Plan method of attack ahead
+  -#Priorities
+    -Prioritize everything:
+      -mobile
+      -Edits
+      -pages
 -Gather your resources
   -template
   -folder system
@@ -17,11 +23,6 @@
 	-Ensure understanding between people and teams
 	-Editable way that team knows what’s going out
 		-Google Docs/Asana/Trello
--#Priorities
-	-Prioritize everything:
-		-mobile
-		-Edits
-		-pages
 -Be flexible
 	-Things change. Accept it.
         -Be willing to pick up the slack
