@@ -1,28 +1,14 @@
-<p>Like a zombie apocalypse, a CMS migration tests one's adaptability under severe stress. Between the long hours, the multi-team collaboration, and the constant changes, I felt less than alive.  There are easily ways to avoid this level of stress.</p>
+Like a zombie apocalypse, a CMS migration tests your adaptability under severe stress. The long hours, the multi-team collaboration, and the constant changes leave you feeling less than alive. Here are some tips to prevent the zombie transformation.
+<h2>Prep Yourself</h2>
+The hardest part to accept will be the constant changes, from updating priorities to dynamic builds. Allow yourself to be flexible. Understand that things will change and are beyond your control. This mentality allows you to prepare for when they do.
 
-<h2>Know the CMS Ins-and-Outs</h2>
-<p>Before anything, get acquainted with the CMS. Know what every button and component does. Understand the interface. 
-  -get acquainted with the CMS 
-  -Saves time and effort
-  -Document through process
-  -Plan method of attack ahead
-  -#Priorities
-    -Prioritize everything:
-      -mobile
-      -Edits
-      -pages
--Gather your resources
-  -template
-  -folder system
-  -assets
-  -Update Documentation during this
-  -Note naming conventions in this process: file names, reference to component names, etc.
-  -Note Key build methods
--Communication is key
-	-clear expectations ahead of time
-	-Ensure understanding between people and teams
-	-Editable way that team knows what’s going out
-		-Google Docs/Asana/Trello
--Be flexible
-	-Things change. Accept it.
-        -Be willing to pick up the slack
+Remember the everyone is delving into the unknown, so better to dive in together. Clear communication prevents future headaches. An effective way to effectively communicate everything with a CMS migration is the use of project management tool. Google Docs variety of products allow for documentation, bug tracker, and progress trackers all in one place. Google Docs collaborative nature enables anyone to reprioritize, add, and comment on edits. Alternatives are Asana and Trello. The use of collaborative platforms ensures teams and teammates know what each other is working on and their progress.
+<h2>Plan the Attack</h2>
+Before diving into the CMS, plan a method of attack. Decide roles, tracking methods, timetables, and priorities. Priorities range in size, from all mobile styes to simple padding and margins.
+
+Next, familiarize yourself with the CMS. Know what every button and component does. Understand the interface. Be sure to follow one rule through this process: document everything. Document your process and any difficulties you encounter along the way. Document any unique approaches you took.
+<h2>Gather Resources</h2>
+At this point, outline what resources you and your team needs. By gathering your resources before starting any work, you create a more efficient workflow. Develop the folder system for both HTML files and assets. Decide what templates you need and the proper way to build them, component-wise. Update the documentation throughout this process with any progressions, including naming conventions, component jargon, or specialized builds.
+
+<h2>Conclusion</h2>
+A migration, much like a zombie infection, pushes you to your limits. Be flexible and willing to adapt to an ever-changing environment. Realize that a migration is a team effort. No one ever survived an apocalypse alone.  
