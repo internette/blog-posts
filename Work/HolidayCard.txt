@@ -1,0 +1,11 @@
+<h2>The Goals</h2>
+-Shareable cards
+-Gallery
+-Card Creator
+-Private card option
+<h2>The Process</h2>
+<p class="subtitle"><b>Design</b></p>
+-Dribbble
+-Gallery
+<p class="subtitle"><b>Development</b></p>
+<h2>The Hurdles</h2>
