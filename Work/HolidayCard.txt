@@ -7,5 +7,9 @@
 <p class="subtitle"><b>Design</b></p>
 -Dribbble
 -Gallery
+-Linkable: Clickable
 <p class="subtitle"><b>Development</b></p>
+-Linkable
+	+Clickabke
+	+Potentially iFrames
 <h2>The Hurdles</h2>
