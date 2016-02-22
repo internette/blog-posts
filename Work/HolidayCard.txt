@@ -1,15 +1,5 @@
 <h2>The Goals</h2>
--Shareable cards
--Gallery
--Card Creator
--Private card option
+The first goal is the convert the CodePen into a web application. The purpose of converting the pen into a full web app is to create a shareable experience. The user could share any card that they create. Upon finishing, the user would choose if the card should be public or private The landing page would be a gallery of public cards. Eventually, the user would be able to upload their own images as a background image. 
 <h2>The Process</h2>
 <p class="subtitle"><b>Design</b></p>
--Dribbble
--Gallery
--Linkable: Clickable
-<p class="subtitle"><b>Development</b></p>
--Linkable
-	+Clickabke
-	+Potentially iFrames
-<h2>The Hurdles</h2>
+<p>The design of the card generator was completed, because of the CodePen. </p>
