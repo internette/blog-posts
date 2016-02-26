@@ -7,7 +7,7 @@ The most difficult part of any migration (or zombie attack) will be adapting to 
 <p>The use of collaborative platforms ensure teammates are aware of the current progress on migration-related items.</p>
 <h2>Plan the Attack</h2>
 <p>Before diving into new the CMS, plan a method of attack. Decide team roles, tracking methods  (see the project management tips above), and milestones/deadlines. </p>
-<p>Next, familiarize yourself with the CMS. Know what every button and component does. Understand the interface. Be sure to follow one rule through this process: document everything. Document your process and any difficulties you encounter along the way. Document any unique approaches you took. This way, you can refer back to any discoveries you made during the migration.</p>
+<p>Next, familiarize yourself with the CMS. Know what every button and component does. Understand the interface. Be sure to follow one rule through this process: <b>document everything</b>. Document your process and any difficulties you encounter along the way as well as any unique approaches you took to fix problems that arise (there will be problems). This way, you can build a handy reference document for current and future teams who work with the new system.</p>
 <h2>Gather Resources</h2>
 <p>At this point, outline what resources you and your team needs. By gathering your resources before starting any work, you create a more efficient workflow. Develop the folder system for both HTML files and assets. Decide what templates you need and the proper way to build them, component-wise. Update the documentation throughout this process with any progressions, including naming conventions, component jargon, or specialized builds.</p>
 <h2>Attack!</h2>
