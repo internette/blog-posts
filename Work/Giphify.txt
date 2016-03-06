@@ -1,0 +1,21 @@
+-Intro
+-The Goals
++The Design
+~Easily Customizable
+~Minimal basics
+~Focus on content
++The Dev
+~Zero dependencies
+~OOP Approach
+-The Process
++The Design
+~Tooltip simplicity
+~Options: color based
++The Dev
+~jQuery style of implementation: $()
+-The Hurdles
+~Learning prototype
+~further understanding of 'this'
+-Future plans
++OOP style of options
+~Color themes
