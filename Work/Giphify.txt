@@ -1,21 +1,20 @@
--Intro
--The Goals
-+The Design
-~Easily Customizable
-~Minimal basics
-~Focus on content
-+The Dev
-~Zero dependencies
-~OOP Approach
--The Process
-+The Design
-~Tooltip simplicity
-~Options: color based
-+The Dev
-~jQuery style of implementation: $()
--The Hurdles
-~Learning prototype
-~further understanding of 'this'
--Future plans
-+OOP style of options
-~Color themes
+INTRO
+
+The Goals
+I wanted to create a library that was easy to use and recognizable, even for a beginner. I aimed to create this library as one that can stand alone without any dependencies. The tooltip should be easily customizable through CSS. Finally, the focus of a tooltip is always the content. I wanted my library to be the same. 
+
+The Process
+
+Design
+I approached the design with easy customibility in mind. I've worked with tooltips a lot at my current job, so I have an understanding of the basic design. I knew I had to style the tooltip in a way that flattered the content without feeling overdone. I chose a simple, recognizable shape for the tooltip and used a standard black (#000) as the default background color. This design approach allows for the user to imagine their own design easily.
+
+As for the animations, I kept them simple. A fade in/fade out approach eases the introduction and removal of the tooltip. The float upwards immediately shows which word the tooltip is attached to, removing all confusion. The reverse float is expected due to the mentality that an exit is the same as an entrance, but in reverse. You enter through a door, you leave through a door in the opposite direction. You write and words appear and when you erase, words disappear. 
+
+Development
+The development of this library was the hardest part. I googled for a few hours library creation protocal and every answer was diverse. All I knew were my goals and the basic outline of the code. After reading a few articles and watching some tutorials, I landed on [Binary Intellect]'s tutorial, which I used as a starting point. 
+
+I became heavily dependent on Github for this project, uploading every time something new worked. I wanted this library's use to be as versitile as possible, so I had to ensure that the selection of the element was not limited to ID, as seen in [Binary Intellect]'s tutorial. Because of this mentality, I opted for a "querySelectorAll" plus for loop combination.  
+
+The Hurdles
+
+The biggest hurdle was learning the prototype method of JavaScript development. Before now, I had never attempted to use this methodology. 
