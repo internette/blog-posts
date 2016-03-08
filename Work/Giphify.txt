@@ -13,8 +13,8 @@ As for the animations, I kept them simple. A fade in/fade out approach eases the
 Development
 The development of this library was the hardest part. I googled for a few hours library creation protocal and every answer was diverse. All I knew were my goals and the basic outline of the code. After reading a few articles and watching some tutorials, I landed on [Binary Intellect]'s tutorial, which I used as a starting point. 
 
-I became heavily dependent on Github for this project, uploading every time something new worked. I wanted this library's use to be as versitile as possible, so I had to ensure that the selection of the element was not limited to ID, as seen in [Binary Intellect]'s tutorial. Because of this mentality, I opted for a "querySelectorAll" plus for loop combination.  
+I became heavily dependent on Github for this project, uploading every time something new worked. I wanted this library's use to be as versitile as possible, so I had to ensure that the selection of the element was not limited to ID, as seen in [Binary Intellect]'s tutorial. Because of this mentality, I opted for a "querySelectorAll" plus for loop combination.
 
 The Hurdles
 
-The biggest hurdle was learning the prototype method of JavaScript development. Before now, I had never attempted to use this methodology. 
+The biggest hurdle was learning the prototype method of JavaScript development. Before now, I had never attempted to use this methodology, though I've seen it everywhere. Since the beginning of 2016, I've dabbled a lot in Object Oriented JavaScript on Codepen, so the format of prototyping made sense. 
