@@ -3,14 +3,14 @@ INTRO
 My editor Allison Buki recommended that in the post [How to Survive a CMS Migration], the phrase "zombie horde" should link to a GIF. I liked the recommendation of using a GIF to get the point across, but felt that a link wasn't the right approach. A linke would take the reader away from the post, disrupting a reader's flow. I thought of many ways to address the GIF and landed on a tooltip method. Due to the goal of a zero dependency approach to my portfolio, I decided to make my own GIF library, one that could easily be shared and distributed.
  
 The Goals
-This library should be able to stand alone, zero dependencies required. It, the library, should be user friendly, in terms of usability and customization (through CSS). Finally, the focus of a tooltip is always the content, this library being no different.
+This library should stand alone, meaning zero dependencies required. It, the library, should be user friendly and easily customizable (through CSS). Finally, the tooltip should emphasize the content.
 
 The Process
 
 Design
-I approached the design with 100% customization in mind. I've worked with tooltips a lot at my current job, so I had an understanding of the basic design going into this project. I knew the style of the tooltip should flatter the content without feeling overdone. I chose a simple, recognizable shape for the tooltip and used a standard black (#000) as the default background color. This design approach makes it easier for the user to imagine their design integrated with the tooltip.
+I approached designing the tooltip with complete customization in mind. I've worked with tooltips a lot at my current job, so I understood the basic design going into this project. I knew tooltip styles should flatter the content, not take away from it. For the tooltip design, I chose a simple, recognizable shape and used a standard black (#000) as the default background color. This design approach makes it easier for the user to imagine their design integrated with the tooltip.
 
-As for the animations, I kept them simple. A fade in/fade out approach eases the introduction and removal of the tooltip. The float upwards immediately shows which word or phrase the tooltip is attached to, removing any confusion. The reverse float is expected due to the mentality that an exit is the same as an entrance, but in reverse. You enter through a door, you leave through the same door in the opposite direction. You write words to make them appear while you erase words to do the opposite. 
+As for the animations, I kept them simple. A fade in/fade out approach eases the introduction and removal of the tooltip. The upwards float immediately shows which word or phrase the tooltip is attached to, removing any possible confusion. The reverse float is expected due to the mentality that an exit is the same as an entrance, but in reverse. You enter through a door, you leave through the same door in the opposite direction. You write words to make them appear while you erase words to achieve the opposite effect. 
 
 Development
 The development of this library was the hardest. I first built out a [CodePen] using the Giphy API to see how I would create a tooltip with the API. The next step was to make the API query dynamic, so I furthered my demo to included a text input, testing how the API and tooltip creation would work. After working out some kinks, I moved on to creating my first library that would soon become [Giphify].
