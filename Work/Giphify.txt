@@ -21,4 +21,4 @@ I became heavily dependent on Github for this project, uploading every time some
 
 The Hurdles
 
-The biggest hurdle was learning the prototype method of JavaScript development. Before now, I had never attempted to use this methodology, though I'd seen it everywhere. While the syntax was new, the format made sense due to dabbling a lot in [Object] [Oriented] [JavaScript] on Codepen. 
+The biggest hurdle was learning the prototype method in the JavaScript language. Before now, I had never attempted to use this methodology, though I'd seen it everywhere. While the syntax was new, the format made some sense due to my dabbling in [Object] [Oriented] [JavaScript] on Codepen. I also found converting OOP to the prototype method. This conversion was much more difficult that I originally expect due to how scoping works with prototype.
