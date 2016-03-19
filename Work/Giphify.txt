@@ -1,9 +1,9 @@
 INTRO
 
-My editor Allison Buki recommended that in the post [How to Survive a CMS Migration], the phrase "zombie horde" should link to a GIF. I liked the recommendation of using a GIF to get the point across, but felt that a link wasn't the right approach. A linke would take the reader away from the post, disrupting a reader's flow. I thought of many ways to address the GIF and landed on a tooltip method. Due to the goal of a zero dependency approach to my portfolio, I decided to make my own GIF library, one that could easily be shared and distributed.
+My editor Allison Buki recommended that in the post [How to Survive a CMS Migration], the phrase "zombie horde" should link to a GIF. I liked the recommendation of using a GIF to get the point across, but felt that linking the phrase alone wasn't the right approach. A link would take the reader away from the post, disrupting a reader's flow. I thought of many ways to address the GIF idea and landed on a tooltip method. Due to the goal of making my portfolio require zero depedencies, I decided to make my own GIF library, one that could easily be shared and distributed.
  
 The Goals
-This library should stand alone, meaning zero dependencies required. It, the library, should be user friendly and easily customizable (through CSS). Finally, the tooltip should emphasize the content.
+This library should stand alone, meaning zero dependencies required. The library should be HTML tag independent, as to allow for any application, from links to spans. It, the library, should be user friendly and easily customizable (through CSS). Finally, the tooltip should emphasize the content.
 
 The Process
 
